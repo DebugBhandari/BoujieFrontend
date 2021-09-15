@@ -1,0 +1,14 @@
+.order2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    
+}
+.order2 img{
+    height: 150px;
+    width: 100px;
+}
+.order1{
+    border: 2px solid black;
+    border-radius: 6px;
+}

@@ -1,0 +1,10 @@
+.navbar {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100%,  rgba(124,122,241,1) 73%);
+    /*box-shadow: 6px 6px 2px 2px rgb(124, 122, 241);*/
+    
+    min-height: 100px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
